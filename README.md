@@ -3,7 +3,7 @@
 ## Software Engineer
 
 - Based in **New Delhi, India**.
-- See my portfolio at [**Tanishq Sethi**](iamtanishqsethi.vercel.app).
+- See my portfolio at [**Tanishq Sethi**](https://iamtanishqsethi.vercel.app/).
 - Reach out to me [**Email**](mailto:tanishqsethi05@gmail.com) or [**Twitter**](https://x.com/TanishqSethi13).
 - Working with **MERN, Typescript, Websocket**
 
@@ -20,7 +20,7 @@
 
 - Connect with me on [**X/Twitter**](https://x.com/TanishqSethi13).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/tanishq-sethi-229914259/).
-- Everything on [**Website**](iamtanishqsethi.vercel.app).
+- Everything on [**Website**](https://iamtanishqsethi.vercel.app/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtanishqsethi&label=Profile%20views&color=0e75b6&style=flat" alt="iamtanishqsethi" /> </p>
 
